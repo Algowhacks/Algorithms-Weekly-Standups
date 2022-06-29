@@ -13,7 +13,7 @@ This Repository will contain all my weekly stand up sessions, Resources Shared a
 Below  is a list of all the stand up sessions I have held on different coding challenges weekly. This though, is not limited to weekly as one can present a number of times in a week at her will with the approval of the group members.
 
 
-1. Week One Top K Elements Challenge
+1. [Week One Top K Elements Challenge](https://github.com/Algowhacks/Algorithms-Weekly-Standups/tree/main/Week-One-Challenge)
 
 
 
@@ -27,4 +27,3 @@ Do you have any contribution you want to make. Another way of solving the challe
 All contributions are welcomed but be sure to follow the GitHub Workflow and Group guidelines.
 
  I cant wait to merge your pull requests 🥳 
-
